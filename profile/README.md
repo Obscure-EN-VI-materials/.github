@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organization will collect and archive random questions about English (including CAE sentence transformation, TOEFL reading, etc.)
+This organization will collect and archive random questions about English that are not currently found on the Internet.
 
 I also accept your contributions if you want. Just fork the repository, make changes and make a pull request!
 
