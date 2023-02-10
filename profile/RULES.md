@@ -1,8 +1,12 @@
-1. The content *must* be obscure.
+## Rules
+
+1. The content *must* be obscure at the time of posting.
 
 This includes, but not limited to:
 - If searched online, the phrase has no results, results that are not related, Qs but no As, unreliable As, or can be found at a random book (on Scribd, StuDocu, etc.) that takes time to find.
 - Submissions that are paid (paywalled)
+
+If the material posted is later found in the future, you may not delete it in any way.
 
 2. An MD (Markdown) version must be provided.
 
